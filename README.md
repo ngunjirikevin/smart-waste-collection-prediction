@@ -69,6 +69,7 @@ The project follows the following workflow:
 
 ## Repository Structure
 
+```text
 smart-waste-collection-prediction/
 │
 ├── data/
@@ -88,6 +89,7 @@ smart-waste-collection-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 
 ## Technologies Used
